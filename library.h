@@ -25,4 +25,4 @@ void displayMenu();
 void displayBooks();
 void addBook();
 
-#endif // LIBRARY_H
+#endif // Dong lai pham vi cua #ifndef
